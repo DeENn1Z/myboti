@@ -1,0 +1,252 @@
+{
+  "yookassa_12842c8ff5fe49fc": {
+    "payment_id": "yookassa_12842c8ff5fe49fc",
+    "user_id": 7784754900,
+    "product_id": "p1",
+    "amount": 100,
+    "status": "succeeded",
+    "created_at": 1766484583,
+    "payment_url": "https://yoomoney.ru/checkout/payments/v2/contract?orderId=yookassa_12842c8ff5fe49fc",
+    "message_id": 297
+  },
+  "30dc844a-000f-5000-b000-1236426d4e6f": {
+    "payment_id": "30dc844a-000f-5000-b000-1236426d4e6f",
+    "user_id": 7784754900,
+    "product_id": "p1",
+    "amount": 100,
+    "status": "pending",
+    "created_at": 1766486154,
+    "payment_url": "https://yoomoney.ru/checkout/payments/v2/contract?orderId=30dc844a-000f-5000-b000-1236426d4e6f",
+    "message_id": 301,
+    "description": "Покупка товара: Товар #1",
+    "metadata": {
+      "user_id": "7784754900",
+      "product_id": "p1",
+      "bot_message_id": "301"
+    }
+  },
+  "30dc8668-000f-5001-9000-1d501a872e24": {
+    "payment_id": "30dc8668-000f-5001-9000-1d501a872e24",
+    "user_id": 7784754900,
+    "product_id": "p1",
+    "amount": 100,
+    "status": "pending",
+    "created_at": 1766486696,
+    "payment_url": "https://yoomoney.ru/checkout/payments/v2/contract?orderId=30dc8668-000f-5001-9000-1d501a872e24",
+    "message_id": 301,
+    "description": "Покупка товара: Товар #1",
+    "metadata": {
+      "user_id": "7784754900",
+      "product_id": "p1",
+      "bot_message_id": "301"
+    }
+  },
+  "30dc871b-000f-5001-8000-120a43acdaaa": {
+    "payment_id": "30dc871b-000f-5001-8000-120a43acdaaa",
+    "user_id": 7784754900,
+    "product_id": "70",
+    "amount": 10,
+    "status": "pending",
+    "created_at": 1766486875,
+    "payment_url": "https://yoomoney.ru/checkout/payments/v2/contract?orderId=30dc871b-000f-5001-8000-120a43acdaaa",
+    "message_id": 328,
+    "description": "Покупка товара: Test it",
+    "metadata": {
+      "user_id": "7784754900",
+      "product_id": "70",
+      "bot_message_id": "328"
+    }
+  },
+  "30dc8cd3-000f-5000-b000-13ee486ee260": {
+    "payment_id": "30dc8cd3-000f-5000-b000-13ee486ee260",
+    "user_id": 7784754900,
+    "product_id": "70",
+    "amount": 10,
+    "status": "pending",
+    "created_at": 1766488339,
+    "payment_url": "https://yoomoney.ru/checkout/payments/v2/contract?orderId=30dc8cd3-000f-5000-b000-13ee486ee260",
+    "message_id": 332,
+    "description": "Покупка товара: Test it",
+    "metadata": {
+      "user_id": "7784754900",
+      "product_id": "70",
+      "bot_message_id": "332"
+    }
+  },
+  "30dc9482-000f-5001-8000-1f3933fc1453": {
+    "payment_id": "30dc9482-000f-5001-8000-1f3933fc1453",
+    "user_id": 7784754900,
+    "product_id": "70",
+    "amount": 10,
+    "status": "pending",
+    "created_at": 1766490306,
+    "payment_url": "https://yoomoney.ru/checkout/payments/v2/contract?orderId=30dc9482-000f-5001-8000-1f3933fc1453",
+    "message_id": 336,
+    "description": "Покупка товара: Test it",
+    "metadata": {
+      "user_id": "7784754900",
+      "product_id": "70",
+      "bot_message_id": "336"
+    }
+  },
+  "30dc9592-000f-5001-9000-149454170029": {
+    "payment_id": "30dc9592-000f-5001-9000-149454170029",
+    "user_id": 7784754900,
+    "product_id": "70",
+    "amount": 1,
+    "status": "succeeded",
+    "created_at": 1766490578,
+    "payment_url": "https://yoomoney.ru/checkout/payments/v2/contract?orderId=30dc9592-000f-5001-9000-149454170029",
+    "message_id": 368,
+    "description": "Покупка товара: Тест айти",
+    "metadata": {
+      "user_id": "7784754900",
+      "product_id": "70",
+      "bot_message_id": "368"
+    }
+  },
+  "30dca5e1-000f-5000-b000-1bff3999604e": {
+    "payment_id": "30dca5e1-000f-5000-b000-1bff3999604e",
+    "user_id": 7784754900,
+    "product_id": "70",
+    "amount": 1,
+    "status": "pending",
+    "created_at": 1766494753,
+    "payment_url": "https://yoomoney.ru/checkout/payments/v2/contract?orderId=30dca5e1-000f-5000-b000-1bff3999604e",
+    "message_id": 374,
+    "description": "Покупка товара: Тест айти",
+    "metadata": {
+      "user_id": "7784754900",
+      "product_id": "70",
+      "bot_message_id": "374",
+      "timestamp": "1766494753",
+      "hash": "6cae215f3baf16a6"
+    }
+  },
+  "30dca8d3-000f-5001-9000-1be9ed4c6a55": {
+    "payment_id": "30dca8d3-000f-5001-9000-1be9ed4c6a55",
+    "user_id": 7784754900,
+    "product_id": "p1",
+    "amount": 100,
+    "status": "pending",
+    "created_at": 1766495507,
+    "payment_url": "https://yoomoney.ru/checkout/payments/v2/contract?orderId=30dca8d3-000f-5001-9000-1be9ed4c6a55",
+    "message_id": 376,
+    "description": "Покупка товара: Товар #1",
+    "metadata": {
+      "user_id": "7784754900",
+      "product_id": "p1",
+      "bot_message_id": "376",
+      "timestamp": "1766495507",
+      "hash": "21aa35ed0dda55fb"
+    }
+  },
+  "30dcad75-000f-5001-8000-1fbdb23151af": {
+    "payment_id": "30dcad75-000f-5001-8000-1fbdb23151af",
+    "user_id": 7784754900,
+    "product_id": "70",
+    "amount": 1,
+    "status": "pending",
+    "created_at": 1766496693,
+    "payment_url": "https://yoomoney.ru/checkout/payments/v2/contract?orderId=30dcad75-000f-5001-8000-1fbdb23151af",
+    "message_id": 380,
+    "description": "Покупка товара: Тест айти",
+    "metadata": {
+      "user_id": "7784754900",
+      "product_id": "70",
+      "bot_message_id": "380",
+      "timestamp": "1766496693",
+      "hash": "58036ab90b1c1707"
+    }
+  },
+  "30dccb08-000f-5000-b000-12b486669c79": {
+    "payment_id": "30dccb08-000f-5000-b000-12b486669c79",
+    "user_id": 7784754900,
+    "product_id": "p5",
+    "amount": 300,
+    "status": "pending",
+    "created_at": 1766504265,
+    "payment_url": "https://yoomoney.ru/checkout/payments/v2/contract?orderId=30dccb08-000f-5000-b000-12b486669c79",
+    "message_id": 398,
+    "description": "Покупка товара: Товар #5",
+    "metadata": {
+      "user_id": "7784754900",
+      "product_id": "p5",
+      "bot_message_id": "398",
+      "timestamp": "1766504265",
+      "hash": "381674a5f4056a81"
+    }
+  },
+  "30dccf13-000f-5001-9000-1854f4e0e544": {
+    "payment_id": "30dccf13-000f-5001-9000-1854f4e0e544",
+    "user_id": 7784754900,
+    "product_id": "p1",
+    "amount": 10,
+    "status": "pending",
+    "created_at": 1766505300,
+    "payment_url": "https://yoomoney.ru/checkout/payments/v2/contract?orderId=30dccf13-000f-5001-9000-1854f4e0e544",
+    "message_id": 414,
+    "description": "Покупка товара: Подписка 2 дня",
+    "metadata": {
+      "user_id": "7784754900",
+      "product_id": "p1",
+      "bot_message_id": "414",
+      "timestamp": "1766505300",
+      "hash": "a695f5cbeb3bc62b"
+    }
+  },
+  "30de9c12-000f-5001-9000-15b449b17cd8": {
+    "payment_id": "30de9c12-000f-5001-9000-15b449b17cd8",
+    "user_id": 7784754900,
+    "product_id": "p3",
+    "amount": 200,
+    "status": "pending",
+    "created_at": 1766623314,
+    "payment_url": "https://yoomoney.ru/checkout/payments/v2/contract?orderId=30de9c12-000f-5001-9000-15b449b17cd8",
+    "message_id": 416,
+    "description": "Покупка товара: Подписка 2 месяца",
+    "metadata": {
+      "user_id": "7784754900",
+      "product_id": "p3",
+      "bot_message_id": "416",
+      "timestamp": "1766623314",
+      "hash": "3658c54a09ad5bd0"
+    }
+  },
+  "30dff18a-000f-5000-b000-142c752a01c3": {
+    "payment_id": "30dff18a-000f-5000-b000-142c752a01c3",
+    "user_id": 7784754900,
+    "product_id": "p6",
+    "amount": 1000,
+    "status": "pending",
+    "created_at": 1766710731,
+    "payment_url": "https://yoomoney.ru/checkout/payments/v2/contract?orderId=30dff18a-000f-5000-b000-142c752a01c3",
+    "message_id": 737,
+    "description": "Покупка товара: Подписка 1 год",
+    "metadata": {
+      "user_id": "7784754900",
+      "product_id": "p6",
+      "bot_message_id": "737",
+      "timestamp": "1766710731",
+      "hash": "c6e276eb161b1796"
+    }
+  },
+  "30e519d4-000f-5001-9000-12daf9fd0356": {
+    "payment_id": "30e519d4-000f-5001-9000-12daf9fd0356",
+    "user_id": 7784754900,
+    "product_id": "p4",
+    "amount": 300,
+    "status": "pending",
+    "created_at": 1767048725,
+    "payment_url": "https://yoomoney.ru/checkout/payments/v2/contract?orderId=30e519d4-000f-5001-9000-12daf9fd0356",
+    "message_id": 892,
+    "description": "Покупка товара: 🌐 3 месяца",
+    "metadata": {
+      "user_id": "7784754900",
+      "product_id": "p4",
+      "bot_message_id": "892",
+      "timestamp": "1767048725",
+      "hash": "9804b2987774108e"
+    }
+  }
+}
